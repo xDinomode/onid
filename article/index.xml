@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Onid Theme</title>
+    <link>http://replace-this-with-your-hugo-site.com/article/</link>
+    <description>Recent content in Articles on Onid Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Aug 2016 14:06:42 -0500</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>the web</title>
+      <link>http://replace-this-with-your-hugo-site.com/article/the-web/</link>
+      <pubDate>Fri, 12 Aug 2016 14:06:42 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/article/the-web/</guid>
+      <description>
+
+&lt;h1 id=&#34;h1&#34;&gt;h1&lt;/h1&gt;
+
+&lt;h2 id=&#34;h2&#34;&gt;h2&lt;/h2&gt;
+
+&lt;h3 id=&#34;h3&#34;&gt;h3&lt;/h3&gt;
+
+&lt;h4 id=&#34;h4&#34;&gt;h4&lt;/h4&gt;
+
+&lt;h5 id=&#34;h5&#34;&gt;h5&lt;/h5&gt;
+
+&lt;h6 id=&#34;h6&#34;&gt;h6&lt;/h6&gt;
+
+&lt;p&gt;Paragraph&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;emphasis&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;cat&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;dog&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;leaf&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tree&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;var a = 2;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;block quote&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/&#34;&gt;a link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/robin.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
