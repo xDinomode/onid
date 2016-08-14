@@ -2,6 +2,8 @@
 
 A simple but robust theme for the static site generator [Hugo](https://gohugo.io/).
 
+![Onid Theme](http://i.imgur.com/7KJrFDv.png)
+
 ### Install 
 
 After creating a new hugo site, cd into themes and run:
