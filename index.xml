@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Onid Theme</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>https://xdinomode.github.io/onid/</link>
     <description>Recent content on Onid Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Aug 2016 14:49:50 -0500</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xdinomode.github.io/onid/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>contact</title>
-      <link>http://replace-this-with-your-hugo-site.com/contact/</link>
+      <link>https://xdinomode.github.io/onid/contact/</link>
       <pubDate>Fri, 12 Aug 2016 14:49:50 -0500</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/contact/</guid>
+      <guid>https://xdinomode.github.io/onid/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;how-to-get-in-touch&#34;&gt;How to get in touch&lt;/h2&gt;
@@ -27,16 +27,16 @@
 
 &lt;p&gt;links to social media here&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/robin.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://xdinomode.github.io/onid/images/robin.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>the web</title>
-      <link>http://replace-this-with-your-hugo-site.com/article/the-web/</link>
+      <link>https://xdinomode.github.io/onid/article/the-web/</link>
       <pubDate>Fri, 12 Aug 2016 14:06:42 -0500</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/article/the-web/</guid>
+      <guid>https://xdinomode.github.io/onid/article/the-web/</guid>
       <description>
 
 &lt;h1 id=&#34;h1&#34;&gt;h1&lt;/h1&gt;
@@ -76,9 +76,9 @@
 &lt;p&gt;block quote&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/&#34;&gt;a link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xdinomode.github.io/onid/&#34;&gt;a link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/robin.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://xdinomode.github.io/onid/images/robin.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

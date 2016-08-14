@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Onid Theme</title>
-    <link>http://replace-this-with-your-hugo-site.com/article/</link>
+    <link>https://xdinomode.github.io/onid/article/</link>
     <description>Recent content in Articles on Onid Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Aug 2016 14:06:42 -0500</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/article/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xdinomode.github.io/onid/article/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>the web</title>
-      <link>http://replace-this-with-your-hugo-site.com/article/the-web/</link>
+      <link>https://xdinomode.github.io/onid/article/the-web/</link>
       <pubDate>Fri, 12 Aug 2016 14:06:42 -0500</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/article/the-web/</guid>
+      <guid>https://xdinomode.github.io/onid/article/the-web/</guid>
       <description>
 
 &lt;h1 id=&#34;h1&#34;&gt;h1&lt;/h1&gt;
@@ -54,9 +54,9 @@
 &lt;p&gt;block quote&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/&#34;&gt;a link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xdinomode.github.io/onid/&#34;&gt;a link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/robin.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://xdinomode.github.io/onid/images/robin.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
