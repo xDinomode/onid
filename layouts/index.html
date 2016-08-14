@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{ partial "head.html" .}}
+<body>
+    {{ partial "header.html" .}}
+    
+    <section id="home-page-introduction">
+        <header>
+            <h1>{{ .Title }}</h1>
+            <a href="#about"><button class="red-button">About</button></a>
+        </header>
+    </section>
+    
+    <section id="home-page-articles">
+        <header>
+            <h1>Articles</h1>
+        </header>
+        <section>
+            {{ range first 5 .Data.Pages }}
+                {{ if eq .Type "article" }}
+                <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                {{ end }}
+            {{ end }}
+            <a href="/article"><button class="red-button">More...</button></a>
+        </section>
+    </section>
+    
+    <section id="home-page-about">
+        <header>
+        <h1 id="about">About me</h1>
+        </header>
+        <section>
+            <p>I'm a <a href="/">computer</a> programmer that loves open source!</p>
+            <img src="/images/robin.jpg">
+        </section>
+    </section>
+    {{ partial "footer.html" .}}
+</body>
+</html>

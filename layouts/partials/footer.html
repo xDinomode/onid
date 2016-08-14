@@ -1,0 +1,10 @@
+<footer id="footer">
+    <ul>
+        {{ range .Site.Pages }}
+            {{ if eq .Type "page" }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        {{ end }}
+        <li><a href="/sitemap.xml">sitemap</a></li>
+    </ul>
+</footer>

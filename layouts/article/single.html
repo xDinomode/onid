@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{ partial "head.html" .}}
+<body>
+    {{ partial "header.html" .}}
+    
+    <article class="single-article">
+        <header>
+            <h1>{{ .Title }}</h1>
+            <h3>{{ .Date.Format "Jan 2, 2006" }}</h3>
+        </header>
+        <section>
+            {{ .Content }}
+        </section>
+    </article>
+
+    {{ partial "footer.html" .}}
+
+    <!-- Syntax Highlighting -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>

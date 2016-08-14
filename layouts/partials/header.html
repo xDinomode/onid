@@ -1,0 +1,10 @@
+<header class="partial-header">
+    <nav class="partial-header-navbar">
+        <a href="/"><img class="partial-header-navbar-item" alt="logo" src="/images/examplelogo.svg" height="55px"></a>
+        {{ range .Site.Pages }}
+            {{ if eq .Type "page" }}
+            <div class="partial-header-navbar-item"><h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1></div>
+            {{ end }}
+        {{ end }}
+    </nav>
+</header>
