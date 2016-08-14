@@ -4,15 +4,15 @@
 name = "Onid"
 license = "MIT"
 licenselink = "https://github.com/xdinomode/onid/blob/master/LICENSE.md"
-description = "Simplistic theme."
-homepage = "http://siteforthistheme.com/"
+description = "Simple but robust theme."
+homepage = "xdinomode.github.io/onid"
 tags = ["", ""]
 features = ["", ""]
 min_version = 0.15
 
 [author]
   name = "xDinomode"
-  homepage = ""
+  homepage = "dinosaurscode.xyz"
 
 # If porting an existing theme
 [original]
